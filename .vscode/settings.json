@@ -1,0 +1,22 @@
+{
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "github.copilot.chat.codeGeneration.instructions": [
+        {
+            "file": "./docs/javascript-style.md"
+        },
+        {
+            "file": "./docs/database-style.md"
+        },
+        {
+            "file": "./docs/spec.md"
+        },
+        {
+            "file": "./db/schema.sql"
+        },
+    ],
+    "github.copilot.chat.commitMessageGeneration.instructions": [
+        {
+            "text": "파일 변경과 변경 사유에 대해 극도로 상세하게 표현한다. 이모지 많이 넣는다."
+        }
+    ]
+}
